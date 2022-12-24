@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "juicy-girl-sitting-and-studying-the-map.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "juicy-girl-sitting-and-studying-the-map@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "juicy-girl-sitting-and-studying-the-map@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

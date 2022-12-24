@@ -16,6 +16,19 @@
 		981434AB295521D1007743DE /* r13Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981434AA295521D1007743DE /* r13Tests.swift */; };
 		981434B5295521D1007743DE /* r13UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981434B4295521D1007743DE /* r13UITests.swift */; };
 		981434B7295521D1007743DE /* r13UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981434B6295521D1007743DE /* r13UITestsLaunchTests.swift */; };
+		9825E5B52956A535009230E9 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9825E5B42956A535009230E9 /* HomeViewController.swift */; };
+		9825E5B72956A54F009230E9 /* ContactsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9825E5B62956A54F009230E9 /* ContactsViewController.swift */; };
+		9825E5B92956A560009230E9 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9825E5B82956A560009230E9 /* SettingsViewController.swift */; };
+		98EAD3D22956B62400B9EEFE /* FloorPlanManipulation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3D12956B62400B9EEFE /* FloorPlanManipulation.swift */; };
+		98EAD3D42956B6F900B9EEFE /* Eddystone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3D32956B6F900B9EEFE /* Eddystone.swift */; };
+		98EAD3D62956B72900B9EEFE /* DispatchTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3D52956B72900B9EEFE /* DispatchTimer.swift */; };
+		98EAD3D82956B77E00B9EEFE /* BeaconScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3D72956B77E00B9EEFE /* BeaconScanner.swift */; };
+		98EAD3DA2956B7A800B9EEFE /* LevensteinDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3D92956B7A800B9EEFE /* LevensteinDistance.swift */; };
+		98EAD3DC2956B7E900B9EEFE /* SpeechRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3DB2956B7E900B9EEFE /* SpeechRecognizer.swift */; };
+		98EAD3DE2956B80B00B9EEFE /* SearchResultsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3DD2956B80B00B9EEFE /* SearchResultsVC.swift */; };
+		98EAD3E02956B84800B9EEFE /* Database.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3DF2956B84800B9EEFE /* Database.swift */; };
+		98EAD3E22956B87000B9EEFE /* Routing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3E12956B87000B9EEFE /* Routing.swift */; };
+		98EAD3E42956B8E100B9EEFE /* InstructionGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAD3E32956B8E000B9EEFE /* InstructionGenerator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +62,19 @@
 		981434B0295521D1007743DE /* r13UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = r13UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		981434B4295521D1007743DE /* r13UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = r13UITests.swift; sourceTree = "<group>"; };
 		981434B6295521D1007743DE /* r13UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = r13UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9825E5B42956A535009230E9 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		9825E5B62956A54F009230E9 /* ContactsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsViewController.swift; sourceTree = "<group>"; };
+		9825E5B82956A560009230E9 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		98EAD3D12956B62400B9EEFE /* FloorPlanManipulation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloorPlanManipulation.swift; sourceTree = "<group>"; };
+		98EAD3D32956B6F900B9EEFE /* Eddystone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Eddystone.swift; sourceTree = "<group>"; };
+		98EAD3D52956B72900B9EEFE /* DispatchTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DispatchTimer.swift; sourceTree = "<group>"; };
+		98EAD3D72956B77E00B9EEFE /* BeaconScanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeaconScanner.swift; sourceTree = "<group>"; };
+		98EAD3D92956B7A800B9EEFE /* LevensteinDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevensteinDistance.swift; sourceTree = "<group>"; };
+		98EAD3DB2956B7E900B9EEFE /* SpeechRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechRecognizer.swift; sourceTree = "<group>"; };
+		98EAD3DD2956B80B00B9EEFE /* SearchResultsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsVC.swift; sourceTree = "<group>"; };
+		98EAD3DF2956B84800B9EEFE /* Database.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Database.swift; sourceTree = "<group>"; };
+		98EAD3E12956B87000B9EEFE /* Routing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routing.swift; sourceTree = "<group>"; };
+		98EAD3E32956B8E000B9EEFE /* InstructionGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionGenerator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +128,19 @@
 				98143493295521D1007743DE /* AppDelegate.swift */,
 				98143495295521D1007743DE /* SceneDelegate.swift */,
 				98143497295521D1007743DE /* ViewController.swift */,
+				9825E5B42956A535009230E9 /* HomeViewController.swift */,
+				9825E5B62956A54F009230E9 /* ContactsViewController.swift */,
+				9825E5B82956A560009230E9 /* SettingsViewController.swift */,
+				98EAD3D12956B62400B9EEFE /* FloorPlanManipulation.swift */,
+				98EAD3E32956B8E000B9EEFE /* InstructionGenerator.swift */,
+				98EAD3D32956B6F900B9EEFE /* Eddystone.swift */,
+				98EAD3D52956B72900B9EEFE /* DispatchTimer.swift */,
+				98EAD3DF2956B84800B9EEFE /* Database.swift */,
+				98EAD3E12956B87000B9EEFE /* Routing.swift */,
+				98EAD3D72956B77E00B9EEFE /* BeaconScanner.swift */,
+				98EAD3D92956B7A800B9EEFE /* LevensteinDistance.swift */,
+				98EAD3DD2956B80B00B9EEFE /* SearchResultsVC.swift */,
+				98EAD3DB2956B7E900B9EEFE /* SpeechRecognizer.swift */,
 				98143499295521D1007743DE /* Main.storyboard */,
 				9814349C295521D1007743DE /* Assets.xcassets */,
 				9814349E295521D1007743DE /* LaunchScreen.storyboard */,
@@ -258,9 +297,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9825E5B52956A535009230E9 /* HomeViewController.swift in Sources */,
+				98EAD3D42956B6F900B9EEFE /* Eddystone.swift in Sources */,
+				98EAD3D82956B77E00B9EEFE /* BeaconScanner.swift in Sources */,
 				98143498295521D1007743DE /* ViewController.swift in Sources */,
+				98EAD3DA2956B7A800B9EEFE /* LevensteinDistance.swift in Sources */,
+				98EAD3E22956B87000B9EEFE /* Routing.swift in Sources */,
+				98EAD3DE2956B80B00B9EEFE /* SearchResultsVC.swift in Sources */,
+				98EAD3DC2956B7E900B9EEFE /* SpeechRecognizer.swift in Sources */,
+				9825E5B92956A560009230E9 /* SettingsViewController.swift in Sources */,
+				98EAD3D62956B72900B9EEFE /* DispatchTimer.swift in Sources */,
 				98143494295521D1007743DE /* AppDelegate.swift in Sources */,
 				98143496295521D1007743DE /* SceneDelegate.swift in Sources */,
+				98EAD3D22956B62400B9EEFE /* FloorPlanManipulation.swift in Sources */,
+				98EAD3E02956B84800B9EEFE /* Database.swift in Sources */,
+				98EAD3E42956B8E100B9EEFE /* InstructionGenerator.swift in Sources */,
+				9825E5B72956A54F009230E9 /* ContactsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +489,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZFKXN82J9B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = r13/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -464,6 +517,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZFKXN82J9B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = r13/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
